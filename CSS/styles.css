@@ -11337,7 +11337,7 @@ hr.divider-light {
   color: #f4623a;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active {
-  color: blue !important;
+  color: #f4623a !important;
 }
 @media (min-width: 992px) {
   #mainNav {
