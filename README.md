@@ -1,12 +1,11 @@
 # Landing_Page
 ## DESKTOP VIEW
 ![image](https://user-images.githubusercontent.com/74383773/202867995-b3feef1d-3cca-4030-b4bb-d23c20be2fd5.png)
-![image](https://user-images.githubusercontent.com/74383773/202868017-9ab28e9b-8ada-46c7-a8ce-23d38bd6b097.png)
-![image](https://user-images.githubusercontent.com/74383773/202868027-3a183716-898e-488a-ac09-754134ebbdf5.png)
-![image](https://user-images.githubusercontent.com/74383773/202868051-1f7cf55b-0ae5-408c-8084-98fb1c574f9a.png)
-![image](https://user-images.githubusercontent.com/74383773/202868072-9ce79cce-cf20-49ff-b42f-89562316223e.png)
-![image](https://user-images.githubusercontent.com/74383773/202868092-aacd4b99-efe5-4432-b1dd-fae2b7a6be48.png)
-![image](https://user-images.githubusercontent.com/74383773/202868126-d22c3a47-b310-44f5-9736-ef5d4c08ff88.png)
+![image](https://user-images.githubusercontent.com/74383773/203231781-42070e71-817f-4ed5-92e7-246956425fda.png)
+![image](https://user-images.githubusercontent.com/74383773/203232041-9bd96922-7bba-41cf-ac68-8e80e5d1d745.png)
+![image](https://user-images.githubusercontent.com/74383773/203232172-10bcb63b-cf34-4c29-b225-0688bf231f27.png)
+![image](https://user-images.githubusercontent.com/74383773/203232369-0704f403-db7f-4d0c-a0c7-8f0485ee68d3.png)
+![image](https://user-images.githubusercontent.com/74383773/203232472-944afb9e-291c-478c-afb9-a595220333fa.png)
 
 ## MOBILE VIEW
 ![image](https://user-images.githubusercontent.com/74383773/202868243-eb130340-5e65-4003-87e9-5d873ffef1dd.png)
