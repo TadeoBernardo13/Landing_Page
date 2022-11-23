@@ -11379,23 +11379,34 @@ hr.divider-light {
 }
 
 header.masthead {
-  padding-top: 10rem;
+  height: 30vh;
+  padding-top: 6.2rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/Background\ facebook.png");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.7) 10%, rgba(92, 77, 66, 0.3) 70%), url("../assets/Land\ e\ icono/Comercia Back_150 ppp.png"); 
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
 }
 header.masthead h1, header.masthead .h1 {
-  font-size: 2.25rem;
+  font-size: 1rem;
 }
+
+header.masthead p {
+  font-size: 0.6rem;
+}
+header.masthead a {
+  display: none;
+  border-radius: 20px;
+}
+
 @media (min-width: 992px) {
   header.masthead {
     height: 100vh;
-    min-height: 40rem;
+    min-height: 30rem;
     padding-top: 4.5rem;
     padding-bottom: 0;
+    background-size: cover;
   }
   header.masthead p {
     font-size: 1.15rem;
@@ -11403,11 +11414,31 @@ header.masthead h1, header.masthead .h1 {
   header.masthead h1, header.masthead .h1 {
     font-size: 3rem;
   }
+  header.masthead a {
+    display: inline-block;
+  }
+
+  section.invitation {
+    height: 40vh;
+    min-height: 40rem;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+  }
 }
 @media (min-width: 1200px) {
   header.masthead h1, header.masthead .h1 {
     font-size: 3.5rem;
   }
+}
+
+section.invitation {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.7) 10%, rgba(92, 77, 66, 0.3) 70%), url("../assets/Land\ e\ icono/Sin \Letras/Portada_150_Mesa de trabajo 1_Mesa de trabajo 1.png"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
 }
 
 #portfolio .container-fluid, #portfolio .container-sm, #portfolio .container-md, #portfolio .container-lg, #portfolio .container-xl, #portfolio .container-xxl {
